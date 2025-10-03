@@ -1,5 +1,8 @@
 # CMPM 121 Section Activity
 
+Submission comment:
+This project now has changes that properly increment the counter variable in code and actively displays incrementation on the webpage!
+
 This section activity is intended to introduce you to many of the tools and workflows that we'll use in CMPM 121, Game Development Patterns.
 
 Key tools:
